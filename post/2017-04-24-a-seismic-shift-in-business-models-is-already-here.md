@@ -1,9 +1,3 @@
----
-title: A seismic shift in business models is already here
-date: 2017-04-24T14:00:58.000Z
-excerpt: 'Have you made moves to turn your business into a platform? '
-template: post
----
 <blockquote>When a platform is self-service, even improbable ideas get tried, because there’s no expert gatekeeper ready to say “That will never work!” Guess what? Many of those improbable ideas do work.</blockquote>
 
 —JEFF BEZOS, 2011 LETTER TO SHAREHOLDERS
